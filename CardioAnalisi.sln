@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardioAnalisiLibrary", "CardioAnalisiLibrary\CardioAnalisiLibrary.csproj", "{E95C7FF7-8ADA-467B-8557-616E5A28E007}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataCardio.Test", "DataCardio.Test\DataCardio.Test.csproj", "{7796DDCF-1ED0-4C2F-BE57-FB7D2AF1A3A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E95C7FF7-8ADA-467B-8557-616E5A28E007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E95C7FF7-8ADA-467B-8557-616E5A28E007}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E95C7FF7-8ADA-467B-8557-616E5A28E007}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E95C7FF7-8ADA-467B-8557-616E5A28E007}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7796DDCF-1ED0-4C2F-BE57-FB7D2AF1A3A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7796DDCF-1ED0-4C2F-BE57-FB7D2AF1A3A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7796DDCF-1ED0-4C2F-BE57-FB7D2AF1A3A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7796DDCF-1ED0-4C2F-BE57-FB7D2AF1A3A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B84A5FDB-037C-4BD6-A2FB-35A874A1671A}
+	EndGlobalSection
+EndGlobal
